@@ -1,0 +1,15 @@
+.container {
+    height: 300px;
+}
+
+.text-start {
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 130px;
+}
+
+.text-end {
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 80px;
+}

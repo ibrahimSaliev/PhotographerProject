@@ -1,0 +1,81 @@
+.font {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+}
+
+
+/* Part 1 - hero section - behind the lens */
+
+.background_box {
+    background-image: url("/assets/viktoriaPictures/behind_the_lens.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -100px;
+    padding: 350px;
+    /* opacity: 50%; */
+}
+
+.overlayText {
+    margin-top: 350px;
+    color: #383838;
+}
+
+
+/*  Part 2 - a little bit about me */
+
+.aboutsection {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.aboutText {
+    margin-top: 50px;
+}
+
+.aboutSection1 {
+    margin-bottom: 150px;
+}
+
+
+/* Part 3 - what fuels me */
+
+.aboutImages {
+    width: 100%;
+    /* height: 350px; */
+    height: auto;
+    margin-left: 150px;
+}
+
+.nav-link {
+    background-color: transparent!important;
+    color: black !important;
+}
+
+.btn-link {
+    color: #B2B2B2!important;
+}
+
+.nav-link:hover {
+    color: #B2B2B2 !important;
+}
+
+.navpillstext1 {
+    margin-top: 40px;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.navpillstext {
+    padding-top: 70px;
+}
+
+.navPills {
+    margin: 0 auto;
+}
+
+#textposition {
+    padding-top: 70px;
+}

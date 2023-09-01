@@ -1,0 +1,26 @@
+.albumimg {
+    width: 100%;
+    height: 800px;
+}
+
+.albumsSection {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+h5 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.albumsstyling {
+    margin-bottom: 100px;
+}
+
+.cursorLink,
+.cursorLink1 {
+    cursor: pointer;
+}
+
+.cursorLink:hover {
+    font-size: x-large;
+}

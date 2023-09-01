@@ -1,0 +1,38 @@
+#nav {
+    z-index: 1;
+    color: #674747;
+    text-shadow: 2px 2px 2px black;
+    font-size: 1.5rem;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.imgbox {
+    height: 4rem;
+    width: 4rem;
+    margin-top: 10px;
+}
+
+.navimg {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    margin-left: 50px;
+}
+
+.newcolor {
+    background-color: #B2B2B2;
+}
+
+a:active {
+    background-color: #B2B2B2;
+}
+
+.padd {
+    padding-left: 150px;
+}
+
+.webname {
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+}
